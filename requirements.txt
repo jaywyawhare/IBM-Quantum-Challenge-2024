@@ -1,0 +1,7 @@
+qiskit[visualization]==1.0.2
+qiskit_aer
+qiskit_ibm_runtime
+matplotlib
+pylatexenc
+qiskit-transpiler-service
+git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git
